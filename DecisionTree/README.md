@@ -27,7 +27,4 @@
     method: The splitting method to use.
     max_depth: The maximum depth of the tree.
 
-6. Evaluate the Model: Use the calculate_error_rate function to calculate the error on training or test data:
-
-
-
+6. Evaluate the Model: Use the calculate_error_rate function to calculate the error on training or test data.
